@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 🛈 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙑𝙞𝙠𝙞𝙣𝙜. 𝙄 𝙡𝙤𝙫𝙚 𝙘𝙤𝙙𝙞𝙣𝙜 𝙖𝙣𝙙 𝙖𝙢 𝙤𝙥𝙚𝙣 𝙩𝙤 𝙩𝙧𝙮 𝙣𝙚𝙬 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨! <br>
 ᲼᲼᲼᲼⭐<br>
 🔗 𝗟𝗶𝗻𝗸𝘀 <br>
-↦ https://vikingww2.tk <br>
+↦ coming soon <br>
 ↦ https://tlounge.tk <br>
 
 ![vikingww2's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikingww2&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
