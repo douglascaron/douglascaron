@@ -27,8 +27,8 @@
  ---
  
 <p align="center">
-  📫 Contact me: <strong>root@wumpus.pw</strong>
-  💬 DM me on discord: viking#9744 566669435872477184
+  📫 Contact me: <strong>root@wumpus.pw</strong><br>
+  💬 DM me on discord: <strong>viking#9744 566669435872477184</strong>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikingww2&show_icons=true&locale=en&layout=compact" alt="viking/></p>
