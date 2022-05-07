@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ᲼᲼᲼᲼⭐<br>
 🔗 𝗟𝗶𝗻𝗸𝘀 <br>
 ↦ https://wumpus.pw/ <br>
-↦ https://vikingww2.github.io <br>
+↦ https://vikingww2.github.io/ <br>
 
 ![vikingww2's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikingww2&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
 
