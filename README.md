@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  💻 Coding Skill's: <strong>Python, Javascript, HTML&CSS</strong>
+  💻 Coding Skills: <strong>Python, Javascript, HTML&CSS</strong>
 </p>
 
 <p align="center">
