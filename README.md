@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  💼 Current Project: <strong>NLP website</strong>
+  💼 Current Project: <strong>NLP news trading algo</strong>
 </p>
 
 <p align="center">
