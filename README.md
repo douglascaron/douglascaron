@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  💼 Current Academic Project: <strong>NLP news trading algo</strong>
+  💼 Current Academic Project: <strong>NLP news trading algo</strong><br>
   🎈 Current Personal Project: <strong>https://nexus-suite.xyz/</strong>
 </p>
 
