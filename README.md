@@ -10,7 +10,7 @@ Learning about web development, AI machine learning / deep learning and LLM's
 * 🌍  I'm based in London
 * ✉️  You can contact me at [rsc.douglas@gmail.com](mailto:rsc.douglas@gmail.com)
 * 🚀  I'm currently working on [Nexus Suite](http://nexus-suite.xyz/)
-* 🧠  I'm learning Laravel & transformers (BERT)
+* 🧠  I'm learning transformers (BERT)
 ---
 ### Skills
 
